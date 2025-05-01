@@ -17,7 +17,7 @@ This repository presents a comprehensive analysis and modeling pipeline for pred
 - Imputed numeric values using **median** and categorical with **mode**.
 - Used **Label Encoding** for categorical features.
 - Selected top 10 predictive features using:
-  - Pearson Correlation
+  - Correlation
   - ANOVA F-test
 
 ## 🔧 Feature Selection (Top 10)
